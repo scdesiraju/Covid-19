@@ -13,9 +13,8 @@ Deployment: Piloted the prediction tool in select hospitals to evaluate its real
 Results:
 The developed COVID-19 Prediction tool achieved an accuracy of 86.2% in predicting the likelihood of severe COVID-19 disease based on symptoms. The tool exhibited promising outcomes during pilot testing in hospitals, showcasing its potential utility in assisting healthcare professionals in early diagnosis and decision-making.
 
-Future Work:
-Future enhancements may include:
+Future Work and enhancements:
 
-Fine-tuning existing models for improved accuracy.
+Fine-tuning existing models for improved accuracy, gathering more data.
 Incorporating additional features or data sources to enhance predictive capabilities.
 Scaling the tool for broader deployment in healthcare settings.
